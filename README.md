@@ -29,7 +29,7 @@ Automated pipeline that fetches live odds data every 15 minutes,
 classifies each market event by value via a Router, logs structured rows,
 and sends email alerts on pipeline failure. Full error handling with 3x retry.
 
-**[View project →](https://github.com/poojamelamanelaxmaiah/Sportsbook Odds Intelligence Pipeline)**
+**[View project →](https://github.com/PoojaMelamaneLaxmaiah/Sportsbook-Odds-Intelligence-Pipeline)**
 
 ---
 
@@ -40,7 +40,7 @@ Nationwide e-commerce platform for proficiency testing at CMTI —
 user registration, online payments, result tracking, and admin dashboard.
 Reduced manual processing time by 60%. Served 500+ organisations.
 
-**[View project →](https://github.com/poojaml1995/PTP)**
+**[View project →](https://github.com/PoojaMelamaneLaxmaiah/PTP)**
 
 ---
 
